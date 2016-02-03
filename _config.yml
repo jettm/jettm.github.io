@@ -2,7 +2,7 @@
 
 title:            Core Dump
 locale:           en_US
-url:		  jettm.github.io
+url:		  
 
 
 # Jekyll configuration
@@ -57,7 +57,7 @@ owner:
   bing-verify:
   github: jettm
   stackoverflow: 
-  linkedin: jettm@jettm.com
+  linkedin: jettm
   xing: 
   instagram: 
   lastfm: 
